@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+
+.filtros {
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.lista {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.item {
+  padding: 15px;
+  background: #f0f0f0;
+  border-radius: 8px;
+}
